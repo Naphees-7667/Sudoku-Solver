@@ -86,6 +86,7 @@ function solveSudoku(board) {
     }
     return true;
 }
+```
 
 
 Project Setup
